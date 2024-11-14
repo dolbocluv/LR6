@@ -23,7 +23,7 @@ $ git config --global user.email "dolbocluv@gmail.com"
 ## 3. Клонирование репозитория
 
 ```bash
-$ git clone https://github.com/lovandish/LR6
+$ git clone https://github.com/dolbocluv/LR6
 ```
 *Скриншот клонирования*  
 ![Клонирование репозитория](./screenshots/2.png)
